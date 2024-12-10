@@ -30,7 +30,7 @@
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/usuario/dutty.git
+   git clone https://github.com/eljulia/PyGame2.git
    cd dutty
    ```
 
